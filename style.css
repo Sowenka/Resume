@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Exo+2&family=Montserrat:wght@300;400;600;700&family=Oswald&family=Roboto:ital,wght@0,300;0,400;1,100&display=swap');
+
+*,
+*:before,
+*:after {
+	padding:0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+
+html,
+
+body {
+	display: flexbox;
+	width: 1000px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	background: rgb(223, 190, 190);
+	margin: 0px auto;
+	color: aliceblue;
+	text-shadow: 1px 0 1px rgb(0, 0, 0), 
+	0 1px 1px #000, 
+	-1px 0 1px #000, 
+	0 -1px 1px #000;
+}
+
+
+
+img {
+	border-radius: 30px;
+	border: 5px solid orange ;
+	box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+	
+	
+}
+
+.im {
+	padding: 10px;
+	border: 3px solid orange ;
+	background-color: rgb(253, 181, 25);
+	margin-bottom: 5px;
+	letter-spacing: 1px;
+	border: 1px solid bl;
+}
+
+.social {
+	padding: 10px;
+	border: 3px solid orange ;
+	background-color: orange;
+	text-decoration: none;
+	margin-bottom: 10px;
+	
+}
+
+.social a{
+	color: aliceblue;
+}
+.social a:hover{
+	color: orangered;
+}
+
+.social a:active {
+	color: orange;
+}
+
+.hobby {
+	padding: 10px;
+	border: 3px solid orange ;
+	background-color: rgb(199, 128, 20);
+	margin-bottom: 20px;
+	
+}
+
+li {
+	list-style: none;
+}
+
+
+.work {
+	
+	padding: 10px;
+	border: 3px solid orange ;
+	background-color: rgb(224, 107, 10);
+	margin-bottom:30px;
+		
+}
+
+table {
+	width: auto;
+	margin: auto;
+	border: 1px solid black;
+	
+}
+
+th, td{
+	border: 1px solid black;
+	padding: 3px;
+}
+th, td:hover {
+	background: orangered;
+	color: rgb(241, 182, 182);
+}
+
+.contact {
+	padding: 10px;
+	border: 3px solid orange ;
+	background-color: rgb(192, 86, 0);
+	
+	
+}
+textarea {
+	background: rgb(230, 230, 230);
+	border: 3px solid orange;
+	border-radius: 5px;
+	
+}
+
+.input {
+	background: rgb(230, 230, 230);
+	border: 3px solid orange;
+}
+
+.btn {
+	background: rgb(221, 217, 217);
+	padding: 5px;
+	border: 3px solid orange;
+	margin-left: 10px;
+	border-radius: 3px;
+	margin: 15px 0px;
+}
+
+
+
+
+
