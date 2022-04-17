@@ -51,8 +51,7 @@ img {
 	margin-bottom: 5px;
 	letter-spacing: 1px;
 	border-bottom: 3px solid orange;
-	border-radius: 5px;
-		
+			
 }
 
 .social {
@@ -62,9 +61,6 @@ img {
 	text-decoration: none;
 	margin-bottom: 10px;
 	border-bottom: 3px solid orange;
-	border-radius: 8px;
-
-	
 	
 }
 
@@ -85,8 +81,6 @@ img {
 	background-color: rgb(245, 197, 135);
 	margin-bottom: 20px;
 	border-bottom: 5px solid orange;
-	border-radius: 11px;
-	
 }
 
 li {
@@ -101,8 +95,7 @@ li {
 	background-color: rgb(240, 182, 106);
 	margin-bottom:30px;
 	border-bottom: 5px solid orange;
-	border-radius: 14px;
-		
+	
 }
 
 table {
@@ -126,8 +119,6 @@ th:hover, td:hover {
 	border: 2px solid orange;
 	background-color: rgb(233, 167, 81);
 	border-bottom: 5px solid orange;
-	border-radius: 16px;
-	
 	
 }
 textarea {
